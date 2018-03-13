@@ -1,0 +1,7 @@
+1. Apa yang anda ketahui tentang Mobile Phone Revolution
+2. Dengan melihat perkembangan yang begitu pesat, program apa yang ingin anda buat untuk saaat ini untuk menunjang perkembangan teknologi 1 tahun kedepan
+3. Apa yang anda ketahui tentang github? Jelaskan
+
+1.Yang saya ketahui mengenai mobile phone revolution ialah dimana orang-orang menjadi dekat dengan hal-hal seperti sosial media dan banyak hal lainnya sebelumnya seperti penggunaan pager, penggunaan hp nokia dan juga lain-lainnya, dan juga mulainya jaringan internet dari gsm, cdma , 1g, 2g, 3g, 3.5g sampai 4g. Sekarang orang-orang bisa dibilang ketagihan dengan menggunakan mobile phone apalagi sosial media, dimana setidaknya memakai aplikasi tersebut bisa 2jam lebih sehari.
+2. ERP melalui mobile phone ,sehingga memudahkan pengguna mengakses/menggunakan program tersebut karena biasanya menggunakan website maupun dekstop apps dimana cukup membutuhkan biaya lebih dan waktu yang lebih juga
+3. Github merupakan sebuah website opensource dimana bisa me manage project, review code, host code dan juga membuat software bersamaan dengan jutaan developer lain. Biasanya github digunakan untuk bertanya/meminta bantuan kepada pengguna lain mengenai suatu code, dan juga digunakan untuk berbagi code kepada pengguna yang lain
